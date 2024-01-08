@@ -1,3 +1,5 @@
 Step 1: Find pizza business
 Step 2: Read Menu
 Step 3: Order pizza
+Step 4: Eat pizza
+Step 5: Store leftovers
